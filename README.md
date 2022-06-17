@@ -20,7 +20,7 @@ Starbucks provided simulated data that mimics customer behavior on the Starbucks
 
 - Reward and duration are the fourth and fifth important features. If reward is too low and the duration is too short, it's hard for customers to respond the offer.
 
-##Getting Started
+## Getting Started
 
 ### Installation
 
