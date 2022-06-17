@@ -67,4 +67,4 @@ Data for coding project was provided by Udacity
 
 ## Blog 
 
-The detailed explanation and exploration are published on medium here
+The detailed explanation and exploration are published on medium [here](https://medium.com/@3nh/starbucks-capstone-challenge-31095852630c).
